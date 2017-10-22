@@ -1,0 +1,74 @@
+div {
+  display: inline;
+}
+
+h1 {
+  padding-left: 20px;
+  font-size: 20px;
+}
+
+.line {
+  width: 60px;
+  height: 5px;
+  background-color: black;
+  /* padding: 4px; */
+  margin-left: 20px;
+  position: relative;
+  bottom: 610px;
+}
+
+img {
+  /* aplico el mismo nuevo tamaño a las imágenes */
+  width: 150px;
+  height: 150px;
+  padding: 20px;
+}
+
+.container {
+  /* aplico color y aplico una sombra para que el texto no se confunda con el fondo */
+  color: white;
+  position: relative;
+  bottom: 265px;
+  left: 50px;
+  text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;
+}
+
+.container2 {
+  color: white;
+  position: relative;
+  bottom: 299px;
+  left: 245px;
+  text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;
+}
+
+.container3 {
+  color: white;
+  position: relative;
+  bottom: 333px;
+  left: 438px;
+  text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;
+}
+
+.container4 {
+  color: white;
+  position: relative;
+  bottom: 170px;
+  left: 438px;
+  text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;
+}
+
+.container5 {
+  color: white;
+  position: relative;
+  bottom: 205px;
+  left: 47px;
+  text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;
+}
+
+.container6 {
+  color: white;
+  position: relative;
+  bottom: 239px;
+  left: 243px;
+  text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;
+}
